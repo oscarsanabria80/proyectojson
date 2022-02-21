@@ -380,139 +380,164 @@
                 {
                     "day1": [
                         {
-                            "id": "AB01"
+                            "id": "AB01",
+                            "color": "rojo,amarillo"
                         }
                     ]
                 },
                 {
                     "day2": [
                         {
-                            "id": "AB07"
+                            "id": "AB07",
+                            "color": "amarillo"
                         }
                     ]
                 },
                 {
                     "day3": [
                         {
-                            "id": "AB01"
+                            "id": "AB01",
+                            "color": "rojo,marron,amarillo"
                         },
                         {
-                            "id": "AB02"
+                            "id": "AB02",
+                            "color": "azul"
                         }
                     ]
                 },
                 {
                     "day4": [
                         {
-                            "id": "L03"
+                            "id": "L03",
+                            "color": "blanco"
                         },
                         {
-                            "id": "D04"
+                            "id": "D04",
+                            "color": "negro,rojo"
                         }
                     ]
                 },
                 {
                     "day5": [
                         {
-                            "id": "AB01"
+                            "id": "AB01",
+                            "color": "rojo"
                         }
                     ]
                 },
                 {
                     "day6": [
                         {
-                            "id": "AB04"
+                            "id": "AB04",
+                            "color": "amarillo"
                         }
                     ]
                 },
                 {
                     "day7": [
                         {
-                            "id": "AB04"
+                            "id": "AB04",
+                            "color": "rojo,amarillo"
                         },
                         {
-                            "id": "AB01"
+                            "id": "AB01",
+                            "color": "verde"
                         },
                         {
-                            "id": "AB09"
+                            "id": "AB09",
+                            "color": "rojo"
                         }
                     ]
                 },
                 {
                     "day8": [
                         {
-                            "id": "E08"
+                            "id": "E08",
+                            "color": "rojo,blanco"
                         },
                         {
-                            "id": "L03"
+                            "id": "L03",
+                            "color": "violeta"
                         }
                     ]
                 },
                 {
                     "day9": [
                         {
-                            "id": "AB02"
+                            "id": "AB02",
+                            "color": "rojo"
                         },
                         {
-                            "id": "AB08"
+                            "id": "AB08",
+                            "color": "Blanco"
                         },
                         {
-                            "id": "E05"
+                            "id": "E05",
+                            "color": "rojo,negro,blanco"
                         }
                     ]
                 },
                 {
                     "day10": [
                         {
-                            "id": "AB01"
+                            "id": "AB01",
+                            "color": "azul celeste"
                         }
                     ]
                 },
                 {
                     "day11": [
                         {
-                            "id": "AB01"
+                            "id": "AB01",
+                            "color": "verde"
                         },
                         {
-                            "id": "AB03"
+                            "id": "AB03",
+                            "color": "rojo,naranja"
                         }
                     ]
                 },
                 {
                     "day12": [
                         {
-                            "id": "AB03"
+                            "id": "AB03",
+                            "color": "negro"
                         }
                     ]
                 },
                 {
                     "day13": [
                         {
-                            "id": "AB01"
+                            "id": "AB01",
+                            "color": "blanco"
                         }
                     ]
                 },
                 {
                     "day14": [
                         {
-                            "id": "AB01"
+                            "id": "AB01",
+                            "color": "azul"
                         },
                         {
-                            "id": "AB05"
+                            "id": "AB05",
+                            "color": "azul marino"
                         }
                     ]
                 },
                 {
                     "day15": [
                         {
-                            "id": "AB01"
+                            "id": "AB01",
+                            "color": "negro"
                         }
                     ]
                 },
                 {
                     "day16": [
                         {
-                            "id": "AB01"
+                            "id": "AB01",
+                            "color": "Blanco, azul"
                         }
                     ]
                 }
