@@ -21,7 +21,7 @@
         {
             "id": "AB04",
             "name": "Nescafe, Café soluble, 120 gramos",
-            "price": 59,
+            "price": 13.5,
             "sold": 2
         },
         {
@@ -378,166 +378,192 @@
             "password": "123",
             "purchase": [
                 {
-                    "day1": [
+                    "day": [
                         {
                             "id": "AB01",
-                            "color": "rojo,amarillo"
+                            "color": "rojo,amarillo",
+                            "dia": "dia11"
                         }
                     ]
                 },
                 {
-                    "day2": [
+                    "day": [
                         {
                             "id": "AB07",
-                            "color": "amarillo"
+                            "color": "amarillo",
+                            "dia": "dia4"
                         }
                     ]
                 },
                 {
-                    "day3": [
+                    "day": [
                         {
                             "id": "AB01",
-                            "color": "rojo,marron,amarillo"
+                            "color": "rojo,marron,amarillo",
+                            "dia": "dia10"
                         },
                         {
                             "id": "AB02",
-                            "color": "azul"
+                            "color": "azul",
+                            "dia": "dia16"
                         }
                     ]
                 },
                 {
-                    "day4": [
+                    "day": [
                         {
                             "id": "L03",
-                            "color": "blanco"
+                            "color": "blanco",
+                            "dia": "dia8"
                         },
                         {
                             "id": "D04",
-                            "color": "negro,rojo"
+                            "color": "negro,rojo",
+                            "dia": "dia8"
                         }
                     ]
                 },
                 {
-                    "day5": [
+                    "day": [
                         {
                             "id": "AB01",
-                            "color": "rojo"
+                            "color": "rojo",
+                            "dia": "dia1"
                         }
                     ]
                 },
                 {
-                    "day6": [
+                    "day": [
                         {
                             "id": "AB04",
-                            "color": "amarillo"
+                            "color": "amarillo",
+                            "dia": "dia2"
                         }
                     ]
                 },
                 {
-                    "day7": [
+                    "day": [
                         {
                             "id": "AB04",
-                            "color": "rojo,amarillo"
+                            "color": "rojo,amarillo",
+                            "dia": "dia3"
                         },
                         {
                             "id": "AB01",
-                            "color": "verde"
+                            "color": "verde",
+                            "dia": "dia4"
                         },
                         {
                             "id": "AB09",
-                            "color": "rojo"
+                            "color": "rojo",
+                            "dia": "dia5"
+                            
                         }
                     ]
                 },
                 {
-                    "day8": [
+                    "day": [
                         {
                             "id": "E08",
-                            "color": "rojo,blanco"
+                            "color": "rojo,blanco",
+                            "dia": "dia7"
                         },
                         {
                             "id": "L03",
-                            "color": "violeta"
+                            "color": "violeta",
+                            "dia": "dia7"
                         }
                     ]
                 },
                 {
-                    "day9": [
+                    "day": [
                         {
                             "id": "AB02",
-                            "color": "rojo"
+                            "color": "rojo",
+                            "dia": "dia8"
                         },
                         {
                             "id": "AB08",
-                            "color": "Blanco"
+                            "color": "Blanco",
+                            "dia": "dia9"
                         },
                         {
                             "id": "E05",
-                            "color": "rojo,negro,blanco"
+                            "color": "rojo,negro,blanco",
+                            "dia": "dia10"
                         }
                     ]
                 },
                 {
-                    "day10": [
+                    "day": [
                         {
                             "id": "AB01",
-                            "color": "azul celeste"
+                            "color": "azul celeste",
+                            "dia": "dia11"
                         }
                     ]
                 },
                 {
-                    "day11": [
+                    "day": [
                         {
                             "id": "AB01",
-                            "color": "verde"
+                            "color": "verde",
+                            "dia": "dia12"
                         },
                         {
                             "id": "AB03",
-                            "color": "rojo,naranja"
+                            "color": "rojo,naranja",
+                            "dia": "dia13"
                         }
                     ]
                 },
                 {
-                    "day12": [
+                    "day": [
                         {
                             "id": "AB03",
-                            "color": "negro"
+                            "color": "negro",
+                            "dia": "dia16"
                         }
                     ]
                 },
                 {
-                    "day13": [
+                    "day": [
                         {
                             "id": "AB01",
-                            "color": "blanco"
+                            "color": "blanco",
+                            "dia": "dia14"
                         }
                     ]
                 },
                 {
-                    "day14": [
+                    "day": [
                         {
                             "id": "AB01",
-                            "color": "azul"
+                            "color": "azul",
+                            "dia": "dia15"
                         },
                         {
                             "id": "AB05",
-                            "color": "azul marino"
+                            "color": "azul marino",
+                            "dia": "dia16"
                         }
                     ]
                 },
                 {
-                    "day15": [
+                    "day": [
                         {
                             "id": "AB01",
-                            "color": "negro"
+                            "color": "negro",
+                            "dia": "dia17"
                         }
                     ]
                 },
                 {
-                    "day16": [
+                    "day": [
                         {
                             "id": "AB01",
-                            "color": "Blanco, azul"
+                            "color": "Blanco, azul",
+                             "dia": "dia16"
                         }
                     ]
                 }
