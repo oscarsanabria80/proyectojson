@@ -14,7 +14,6 @@ def clientes_productos(doc):
     nombre=input("introduce un nombre:  ")
     for cliente in doc["users"]:
         if cliente["name"]==nombre:
-            lista1.append(cliente.get("name"))
             lista1.append(len(cliente.get("purchase")))
 
     return lista1
@@ -42,11 +41,7 @@ def buscar_productos(tienda):
                 arti=dias["day"]
                 for d in arti:
                     if d["dia"]==dia:
-
-                        
                         listaproductos.append(d["color"])
-            
-
     return listaproductos
 
 #5. Mostrar el nombre del producto y sus ventas, con el precio más alto del que indiquemos.
