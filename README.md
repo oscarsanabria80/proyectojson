@@ -13,3 +13,18 @@
 
 
 * Ejercicio libre: 5.Mostrar el nombre del producto y sus ventas, con el precio ("13.5", "16.3", "190", "353.5.3", "9.5"...) más alto del que indiquemos.
+
+
+# CONTENIDO DEL PROYECTO
+
+FICHERO PROGRAMAPRINCIPAL.PY
+
+	Contiene todas las opciones para ejecutar el programa.
+	
+FICHERO FUNCIONES.PY
+
+	Contiene todas las funciones necesarias que necesitamos para ejecutar las acciones indicadas.
+	
+FICHERO TIENDAPRODUCTO.JSON 
+
+	Contiene la información sobre la que vamos a trabajar
