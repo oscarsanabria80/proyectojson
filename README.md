@@ -1,3 +1,6 @@
+
+![](python.png)
+
 # Proyecto JSON
 
 * Listar información: 1.Listar todos los productos que contenga la tienda.
